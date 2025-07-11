@@ -1,1 +1,1 @@
-vaultwarden/server:latest
+nginx:1.21
